@@ -37,7 +37,7 @@ return (
             </div>
 
             <div className='mb-3'>
-            <a href="https://github.com/FaisalKB/we-love-movies-backend-api">
+            <a href="https://github.com/FaisalKB/Delicious-food-recipes">
             <img src="https://github.com/FaisalKB/Delicious-food-recipes/raw/main/images/recipe-app-header.jpg" class="img-fluid" alt="header"></img>
             </a>
             </div>

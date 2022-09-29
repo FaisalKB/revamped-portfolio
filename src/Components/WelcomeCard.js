@@ -9,8 +9,8 @@ const WelcomeCard = () => {
         <h6 className='text-muted'>Meet your new software engineer! </h6>
         <hr/>
         </div>
-    <div  className="card mb-5" style={{width: '90%'}}>
-      <img src="https://avatars.githubusercontent.com/u/107439864?v=4" alt='me'/>
+    <div  className="card mb-5" style={{width: '100%'}}>
+      <img src="https://i.ibb.co/xCkkppT/IMG-6863.jpg" alt='me'/>
       <div className="card-body">
         <h3 className="card-title">Hey there!</h3>
         <p>I'm Faisal. I'm a Full-Stack software engineering student proficient in using JavaScript for full-stack programming, React, HTML, CSS, API implementing, Node.JS, Express, PostgreSQL, and frameworks like Bootstrap.</p>
