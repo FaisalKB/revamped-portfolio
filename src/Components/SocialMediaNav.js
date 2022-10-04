@@ -4,8 +4,6 @@ import Nav from 'react-bootstrap/Nav'
 
 
 function SocialMediaNav() { 
-
-
 return (
 <>
 <div>
@@ -36,14 +34,8 @@ return (
   </Nav>
 </Navbar>
 </div>
-
-
-
-
-
 </>
 )
-
 }
 
 export default SocialMediaNav
