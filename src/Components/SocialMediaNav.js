@@ -8,7 +8,7 @@ return (
 <>
 <div>
         <h2 > Let's connect </h2>
-        <h6 className='text-muted'>Check me out on social media! </h6>
+        <h6 className='text-muted'>Check me out on social media, send me an email or view my resume! </h6>
         <hr/>
         </div>
         <div className='sticky-top bg-white' >
