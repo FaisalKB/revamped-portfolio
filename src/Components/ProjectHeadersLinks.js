@@ -11,6 +11,12 @@ return (
         <hr/>
         </div>
         <div>
+    
+          <div className='mb-3'>
+            <a href="https://github.com/FaisalKB/thundrbolt-task-manager">
+            <img src="https://github.com/FaisalKB/thundrbolt-task-manager/raw/main/images/thundrboltheader.jpg" class="img-fluid" alt="header"></img>
+            </a>
+            </div>
 
           <div className='mb-3'>
           <a href="https://devpost.com/software/parent-connect">
